@@ -111,4 +111,4 @@ Proje, ilişkisel bir veritabanı yapısına sahiptir ve 3 ana tablodan oluşmak
 
 **Hazırlayan:** [Muhammed Can Yilmaz]
 **Numara:** [20230108032]
-**Ders:** Nesneye Dayalı Programlama
+**Ders:** Nesneye Dayalı Programlama 1
